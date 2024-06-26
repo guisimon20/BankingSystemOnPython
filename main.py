@@ -1,8 +1,3 @@
-#Cliente(Nome, CPF, DataNascimento, Telefone, Email,) - cada cliente pode ter multiplas contas sendo cpf ou cnpj
-
-#Conta(Agência, Saldo, FunçãoExtrato, FunçãoDeposito, FunçãoSaque, FunçãoTransferência, Emprestimo)
-#Conta Corrente CPF(NumeroContaCPF)
-#Conta Corrente CNPJ(NumeroContaCNPJ, Funcionários, FunçãoPagamentoSalarios,)
 import datetime
 data = datetime.datetime.now()
 
